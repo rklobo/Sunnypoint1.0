@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Riclobo\AndroidStudioProjects\PieConnect\app\libs\intelitacommlib_1_0_2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="096c4d5aadc902fef9b945c5bb5029cd6f8573a3">
+        <dex dex="C:\Users\Riclobo\AndroidStudioProjects\PieConnect\app\build\intermediates\pre-dexed\release\intelitacommlib_1_0_2-7ba5eaba731e7de0697c1702f756d837766767d2.jar" />
+    </item>
+
+</items>
